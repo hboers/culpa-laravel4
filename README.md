@@ -6,6 +6,11 @@ automatically adds references to the authenticated user when creating, updating
 or soft-deleting a model.
 
 
+## About this Fork
+
+Please note that this fork of  `rmasters/culpa` contains some very project specific unpolished coding. Use at own risk!
+Please send any requests, questions or beef to <me@hboers.com>
+
 ## Installation
 
 This package works with PHP 5.3 and above, but includes traits to make it easier
